@@ -1,0 +1,5 @@
+1. DARPA has commissioned three private companies to develop nuclear fission thermal rockets for use in lunar orbit. Other advancements include the use of chemical rockets, nuclear fission rockets, electric propulsion, and solar sails. Source: phys.org
+
+2. Researchers at the University of Central Florida have developed a rotating detonation rocket engine. This system allows upper stage rockets for space missions to become lighter, travel farther, and burn more cleanly. Source: ScienceDaily
+
+3. NASA has tested a new rocket engine design called a Rotating Detonation Rocket Engine (RDRE) that uses detonation waves to achieve higher power density and energy release. Advancements in additive manufacturing and computer modeling have helped in the development of compact combustors that can handle extreme heat. Source: NASA

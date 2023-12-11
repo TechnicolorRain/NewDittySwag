@@ -86,3 +86,28 @@ Suggestions, ideas, or collaborations? Let's make SpaceBox better together:
 
 - **GitHub Repository**: [SpaceBox GitHub](#)
 - **Email**: contact@spacebox.com
+
+## Additional Resources
+
+- [Human Intervention Tasks](human_intervention_tasks.md)
+- [Adaptive Business Plan Management](adaptive_business_plan_management.md)
+- [Human Tasks](human_tasks.md)
+- [Auto-GPT Configuration](auto-gpt.json)
+- [Business Launch Documentation](business_launch_documentation.md)
+- [Information Gap Analysis](information_gap_analysis.md)
+- [Business Launch Plan](business_launch_plan.md)
+- [Launch Process Documentation](launch_process.md)
+- [Business Model Overview](business_model.md)
+- [Long Term Success Strategy](long_term_success_strategy.md)
+- [Comprehensive Business Plan](business_plan.md)
+- [Post-Launch Strategies](post_launch_strategies.md)
+- [Business Plan Archive](business_plan_archive.zip)
+- [Post-Launch Strategy Overview](post_launch_strategy.md)
+- [Business Plan Management](business_plan_management.md)
+- [Scripts and Tools](scripts/)
+- [Business Plan Updates](business_plan_updates.md)
+- [Strategic Launch Plan](strategic_launch_plan.md)
+- [Compiled Plan Summary](compiled_plan.md)
+- [Strategic Launch Roadmap](strategic_launch_roadmap.md)
+- [Comprehensive Document Compilation](comprehensive_document.md)
+- [Strategic Plan Overview](strategic_plan.md)
